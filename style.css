@@ -1,0 +1,113 @@
+h1{
+    color: rgb(209, 206, 206);
+}
+header{
+    height: 50px;
+    background-color: rgb(73, 73, 73);
+    text-align: center;
+    
+
+
+}
+
+.content{
+    height: 500px;
+    overflow: hidden;
+}
+.left{
+    height: 500px;
+    width: 25%;
+    background-color: darkorange;
+    float: left;
+
+}
+.lefttop{
+
+    height: 25%;
+    background-color: crimson;
+}
+
+.leftmiddle{
+    height: 50%;
+    background-color: cyan;
+}
+.leftright{
+    height: 25%;
+background-color: chocolate;}
+.middle{
+    height: 500px;
+    width: 50%;
+    background-color: darkturquoise;
+    float: left;
+
+}
+
+.middletop{
+
+    height: 50%;
+    background-color: black;
+}
+.middlebottom{
+    height: 50%;
+    background-color: blanchedalmond;
+}
+.right{
+    height: 500px;
+    width: 25%;
+    background-color: deeppink;
+    float: right;
+}
+.right1{
+height: 20%;
+background-color: blanchedalmond;
+
+}
+
+.right2{
+height: 20%;
+background-color: rgb(63, 5, 50);
+
+}
+.right3{
+height: 20%;
+background-color: rgb(31, 30, 30);
+
+}
+.right4{
+    height: 20%;
+    background-color: brown;
+}
+.right5{
+    height: 20%;
+    background-color: cornflowerblue;
+}
+.downleft{
+    height: 100px;
+    width: 30%;
+    background-color: rgb(134, 10, 10);
+    float: left;
+ 
+}
+.downmiddle{
+    height: 100px;
+    width: 40%;
+    background-color: rgb(110, 110, 110);
+    float: left;
+}
+.downright{
+    height: 100px;
+    width: 30%;
+    background-color: rgb(237, 100, 180);
+    float: right;
+}
+footer{
+    
+    color: rgb(231, 231, 231);
+    padding-top: 100px;
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10;
+    height: 200px;
+    background-color: rgb(43, 43, 43);
+}
+
